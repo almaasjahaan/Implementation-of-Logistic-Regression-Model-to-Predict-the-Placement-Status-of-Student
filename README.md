@@ -41,7 +41,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # Load dataset
-data = pd.read_csv("C:\\Users\\balak\\Downloads\\Placement_Data.csv")
+data = pd.read_csv("C:\\Users\\admin\\Downloads\\Placement_Data.csv")
 data.head()
 
 # Copy data and drop unnecessary columns
@@ -97,15 +97,14 @@ print("Predicted Placement Status:", placement_status)
 
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![image](https://github.com/user-attachments/assets/5ab6f643-c1e4-4e2e-b5a5-ac8a7cac0b11)
 
-![image](https://github.com/user-attachments/assets/be6e82a2-8bcd-4126-837c-d24a8c761256)
+![image](https://github.com/user-attachments/assets/73a69e47-1712-4a81-99e5-cbb23b84b69f)
 
-![image](https://github.com/user-attachments/assets/921bcb37-52b4-4f36-9f21-689556ace082)
+![image](https://github.com/user-attachments/assets/3c4de668-dafb-40f7-a525-a6108816aba2)
 
-![image](https://github.com/user-attachments/assets/ff01781b-7033-4379-8ed7-4d95b03d69f3)
+![image](https://github.com/user-attachments/assets/28369ea3-2286-4ea3-9f45-feadceba4d62)
 
-![image](https://github.com/user-attachments/assets/ade74e5a-bd8c-465d-aaaf-6dce2b96d950)
+![image](https://github.com/user-attachments/assets/d52f3595-ccac-4646-aa43-a9c70de65f4f)
 
 
 ## Result:
